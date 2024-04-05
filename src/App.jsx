@@ -9,10 +9,10 @@ import Home from "./pages/home/Home";
 import About from "./pages/about/About";
 import Works from "./pages/works/Works";
 import Contact from "./pages/contact/Contact";
-import Blog from "./pages/blog/Blog";
+
 
 import SampleProject from "./pages/sampleproject/SampleProject";
-import SampleBlog from "./pages/sampleblog/SampleBlog";
+
 
 import { AnimatePresence } from "framer-motion";
 
