@@ -22,3 +22,8 @@ Simple css
 # About page
 
 The custom marquee from react and accordin from react made things easy and alignment of page makes it look better , it took me time to find perfect fonts
+
+
+# Tools page
+
+the hover animation on image picture makes the image appear as background i.e blurred which gives a very good look to page
