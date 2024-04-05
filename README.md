@@ -27,3 +27,7 @@ The custom marquee from react and accordin from react made things easy and align
 # Tools page
 
 the hover animation on image picture makes the image appear as background i.e blurred which gives a very good look to page
+
+# Finally single tool page
+
+this is my favourite animation whenevr i hover on the next tool text the image of tools floats along with the mouse

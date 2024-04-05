@@ -28,10 +28,9 @@ function App() {
           <Route index element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/works" element={<Works />} />
-          <Route path="/blog" element={<Blog />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/sample-project" element={<SampleProject />} />
-          <Route path="/sample-blog" element={<SampleBlog />} />
+         
         </Routes>
       </AnimatePresence>
       {showFooter && <Footer />}
