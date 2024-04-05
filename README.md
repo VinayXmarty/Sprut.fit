@@ -13,3 +13,7 @@ the toggle effect was simple the main task was the picture everytime i hover on 
 # Contact form
 
 simple form with beautiful css the transition here was magnetic button. With gasp it traces the path of the mouse 
+
+# Footer
+
+Simple css
