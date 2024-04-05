@@ -17,3 +17,8 @@ simple form with beautiful css the transition here was magnetic button. With gas
 # Footer
 
 Simple css
+
+
+# About page
+
+The custom marquee from react and accordin from react made things easy and alignment of page makes it look better , it took me time to find perfect fonts
